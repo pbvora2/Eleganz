@@ -1,0 +1,223 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Question 1.</div>
+    <div style={{width: 321, left: 40, top: 460, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>What is your date of birth?</div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 80, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>>>></div>
+    </div>
+    <div style={{paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 15, top: 536, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>MM/DD/YYYY</div>
+    </div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+</div>
+
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Question 1.</div>
+    <div style={{width: 321, left: 41, top: 454, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>What is your level of physical activity?</div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 80, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>>>></div>
+    </div>
+    <div style={{width: 119, height: 48, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 59, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20}} />
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 59, top: 631, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20}} />
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 223, top: 631, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20}} />
+    <div style={{width: 128, left: 219, top: 643, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 14, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 0.84, wordWrap: 'break-word'}}>Sedantary</div>
+    <div style={{width: 128, left: 55, top: 636, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 14, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 0.84, wordWrap: 'break-word'}}>lightly <br/>active</div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 223, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20}} />
+    <div style={{width: 147, left: 45, top: 544, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 14, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 0.84, wordWrap: 'break-word'}}>very<br/>active</div>
+    <div style={{width: 114, height: 32, left: 227, top: 544, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 14, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 0.84, wordWrap: 'break-word'}}>slightly <br/>active</div>
+    <img style={{width: 230, height: 229, left: 91, top: 176, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/230x229" />
+</div>
+
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Question 1.</div>
+    <div style={{width: 321, left: 37, top: 452, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>How many hours of sleep do you get on average per night?</div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 80, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>>>></div>
+    </div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <div style={{paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 33, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>type here</div>
+    </div>
+</div>
+
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Question 1.</div>
+    <div style={{width: 353, height: 61, left: 21, top: 450, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Do you have any existing health conditions we should be aware of?</div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 80, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>>>></div>
+    </div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <div style={{paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 33, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>type here</div>
+    </div>
+    <img style={{width: 230, height: 229, left: 83, top: 176, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/230x229" />
+</div>
+
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Question 1.</div>
+    <div style={{width: 353, height: 61, left: 21, top: 450, position: 'absolute'}}>
+        <div style={{width: 353, height: 61, left: 0, top: 0, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>How often do you experience stress?</div>
+        <div style={{width: 353, height: 61, left: 0, top: 0, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>How often do you experience stress?</div>
+    </div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 80, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>>>></div>
+    </div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 34, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 228, top: 631, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 34, top: 631, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 233, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{left: 64, top: 553, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>Rarely</div>
+    <div style={{left: 249, top: 555, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>Sometimes</div>
+    <div style={{left: 64, top: 643, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>often</div>
+    <div style={{left: 263, top: 643, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>always </div>
+    <img style={{width: 230, height: 229, left: 80, top: 182, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/230x229" />
+</div>
+
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Question 1.</div>
+    <div style={{width: 353, height: 61, left: 21, top: 450, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Are your menstrual cycles regular?</div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 80, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>>>></div>
+    </div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <div style={{width: 324, height: 36, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 30, top: 535, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20}} />
+    <div style={{width: 324, height: 36, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 30, top: 585, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20}} />
+    <div style={{width: 324, height: 36, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 31, top: 635, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <img style={{width: 230, height: 229, left: 66, top: 173, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/230x229" />
+</div>
+
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Question 1.</div>
+    <div style={{width: 353, height: 61, left: 21, top: 450, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>How would you describe your menstrual flow?</div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 80, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>>>></div>
+    </div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 34, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 228, top: 631, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 34, top: 631, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{width: 119, height: 50, paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 230, top: 541, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div></div>
+    </div>
+    <div style={{left: 71, top: 555, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>Light</div>
+    <div style={{left: 260, top: 555, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>Medium</div>
+    <div style={{left: 64, top: 643, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>Heavy</div>
+    <div style={{left: 244, top: 643, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>Very heavy</div>
+    <img style={{width: 230, height: 229, left: 80, top: 181, position: 'absolute', borderRadius: 9999}} src="https://via.placeholder.com/230x229" />
+</div>
+
