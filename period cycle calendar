@@ -1,0 +1,326 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 396.50, height: 943.50, left: -6.50, top: -7.50, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 230, left: 34, top: 254, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Calendar:</div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Today - 11/05</div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <img style={{width: 75, height: 43, left: 5, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 320, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: -48, top: 180, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 268, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 215, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 160, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 56, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 110, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 32, height: 21, left: 237, top: 190, position: 'absolute'}} src="https://via.placeholder.com/32x21" />
+    <div style={{width: 390, height: 118, left: 0, top: 781, position: 'absolute', background: 'linear-gradient(94deg, rgba(0, 0, 0, 0.12) 0%, rgba(196, 196, 196, 0.13) 100%)', border: '1px #FE97AB solid'}} />
+    <img style={{width: 58, height: 40, left: 208, top: 793, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 110, top: 795, position: 'absolute', mixBlendMode: 'soft-light'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 15, top: 795, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 320, top: 795, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 715, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>28</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 215, top: 715, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>29</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 715, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>30</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 715, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>31</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 215, top: 634, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>1</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 634, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>2</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 634, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>3</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 654, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>4</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 654, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>5</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 654, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>6</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 654, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>7</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 215, top: 654, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>8</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 654, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>9</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 654, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>10</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 674, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>11</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 674, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>12</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 674, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>13</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 674, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>14</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 215, top: 674, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>15</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 674, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>16</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 674, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>17</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 694, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>18</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 694, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>19</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 694, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>20</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 694, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>21</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 215, top: 694, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>22</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 694, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>23</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 694, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>24</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 715, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>25</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 715, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>26</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 715, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>27</div>
+    </div>
+    <div style={{width: 14, height: 12, left: 83, top: 615, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>M</div>
+    <div style={{width: 10, height: 12, left: 116, top: 615, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>T</div>
+    <div style={{width: 15, height: 12, left: 154, top: 616, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>W</div>
+    <div style={{width: 11, height: 12, left: 193, top: 615, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>T</div>
+    <div style={{width: 9, height: 12, left: 229, top: 616, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>F</div>
+    <div style={{width: 11, height: 12, left: 264, top: 615, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>S</div>
+    <div style={{width: 11, height: 12, left: 308, top: 615, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>S</div>
+    <div style={{width: 65, height: 9, left: 185, top: 600, position: 'absolute', color: 'black', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>march</div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 492, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>1</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 211, top: 492, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>2</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 492, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>3</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 492, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>4</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 512, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>5</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 512, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>6</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 512, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>7</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 512, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>8</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 211, top: 512, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>9</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 512, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>10</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 512, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>11</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 533, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>12</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 533, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>13</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 533, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>14</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 533, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>15</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 211, top: 533, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>16</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 533, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>17</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 533, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>18</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 553, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>19</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 553, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>20</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 553, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>21</div>
+    </div>
+    <div style={{width: 39, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 178, top: 553, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>22</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 211, top: 553, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>23</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 553, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>24</div>
+    </div>
+    <div style={{width: 40, height: 20, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 553, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>25</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 573, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>26</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 102, top: 573, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>27</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 573, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>28</div>
+    </div>
+    <div style={{width: 14, height: 12, left: 73, top: 474, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>M</div>
+    <div style={{width: 10, height: 12, left: 116, top: 474, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>T</div>
+    <div style={{width: 15, height: 11, left: 154, top: 475, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>W</div>
+    <div style={{width: 11, height: 12, left: 193, top: 474, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>T</div>
+    <div style={{width: 10, height: 11, left: 226, top: 475, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>F</div>
+    <div style={{width: 11, height: 12, left: 264, top: 474, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>S</div>
+    <div style={{width: 11, height: 12, left: 299, top: 474, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>S</div>
+    <div style={{width: 64, height: 11, left: 174, top: 436, position: 'absolute', color: 'black', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>febuary</div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 310, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>1</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 101, top: 310, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>2</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 310, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>3</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 177, top: 310, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>4</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 210, top: 310, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>5</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 310, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>6</div>
+    </div>
+    <div style={{width: 38, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 310, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>7</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 331, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>8</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 101, top: 331, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>9</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 331, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>10</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 177, top: 331, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>11</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 210, top: 331, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>12</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 331, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>13</div>
+    </div>
+    <div style={{width: 38, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 331, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>14</div>
+    </div>
+    <div style={{width: 39, height: 22, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 352, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>15</div>
+    </div>
+    <div style={{width: 40, height: 22, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 101, top: 352, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>16</div>
+    </div>
+    <div style={{width: 40, height: 22, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 352, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>17</div>
+    </div>
+    <div style={{width: 40, height: 22, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 177, top: 352, position: 'absolute', background: '#5BB1FF', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>18</div>
+    </div>
+    <div style={{width: 40, height: 22, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 210, top: 352, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>19</div>
+    </div>
+    <div style={{width: 39, height: 22, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 352, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>20</div>
+    </div>
+    <div style={{width: 38, height: 22, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 352, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>21</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 374, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>22</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 101, top: 374, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>23</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 374, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>24</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 177, top: 374, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>25</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 210, top: 374, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>26</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 250, top: 374, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>27</div>
+    </div>
+    <div style={{width: 38, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 289, top: 374, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>28</div>
+    </div>
+    <div style={{width: 39, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 60, top: 395, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>29</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 101, top: 395, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>30</div>
+    </div>
+    <div style={{width: 40, height: 21, paddingLeft: 8, paddingRight: 8, paddingTop: 5, paddingBottom: 5, left: 141, top: 395, position: 'absolute', background: '#B80257', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '400', wordWrap: 'break-word'}}>31</div>
+    </div>
+    <div style={{width: 14, height: 13, left: 72, top: 297, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>M</div>
+    <div style={{width: 11, height: 13, left: 115, top: 297, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>T</div>
+    <div style={{width: 14, height: 13, left: 153, top: 297, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>W</div>
+    <div style={{width: 11, height: 13, left: 192, top: 297, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>T</div>
+    <div style={{width: 10, height: 13, left: 225, top: 297, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>F</div>
+    <div style={{width: 11, height: 13, left: 263, top: 297, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>S</div>
+    <div style={{width: 11, height: 13, left: 303, top: 297, position: 'absolute', color: 'white', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>S</div>
+    <div style={{width: 73, height: 10, left: 178, top: 282, position: 'absolute', color: 'black', fontSize: 12, fontFamily: 'Roboto', fontWeight: '700', wordWrap: 'break-word'}}>JANUARY</div>
+</div>
