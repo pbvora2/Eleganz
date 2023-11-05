@@ -1,0 +1,37 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 396.50, height: 943.50, left: -6.50, top: -7.50, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 340, height: 179, left: 38, top: 281, position: 'absolute'}}>
+        <div style={{width: 264, left: 41, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Products around me</div>
+        <div style={{width: 340, height: 33, left: 0, top: 146, position: 'absolute'}}><span style="color: '#FF0000', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'">Offers  </span><span style="color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'">  free    tampons     pads</span></div>
+    </div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Today - 11/05</div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.70)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <img style={{width: 75, height: 43, left: 5, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 320, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: -48, top: 180, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 268, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 215, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 160, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 56, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 110, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 32, height: 21, left: 237, top: 190, position: 'absolute'}} src="https://via.placeholder.com/32x21" />
+    <div style={{width: 390, height: 118, left: 0, top: 781, position: 'absolute', background: 'linear-gradient(94deg, rgba(0, 0, 0, 0.12) 0%, rgba(196, 196, 196, 0.13) 100%)', border: '1px #FE97AB solid'}} />
+    <img style={{width: 58, height: 40, left: 208, top: 793, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 110, top: 795, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 15, top: 795, position: 'absolute', mixBlendMode: 'soft-light'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 320, top: 795, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 427, height: 290, left: -22, top: 476, position: 'absolute'}} src="https://via.placeholder.com/427x290" />
+    <img style={{width: 283, height: 64, left: 60, top: 339, position: 'absolute'}} src="https://via.placeholder.com/283x64" />
+</div>
