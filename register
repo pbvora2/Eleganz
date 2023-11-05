@@ -1,0 +1,60 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 390, height: 862, left: 0, top: -18, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{height: 69, left: 56, top: 93, position: 'absolute'}}>
+        <div style={{width: 230, left: 36, top: 0, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 0.90, wordWrap: 'break-word'}}>Welcome Onboard!</div>
+        <div style={{width: 302, height: 31, left: 0, top: 38, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 13, fontFamily: 'Poppins', fontWeight: '400', letterSpacing: 0.78, wordWrap: 'break-word'}}>sync your cycle, sync your health</div>
+    </div>
+    <div style={{width: 227, height: 229, left: 77, top: 214, position: 'absolute'}}>
+        <div style={{width: 113.92, height: 168, left: 76.62, top: 0, position: 'absolute', background: '#F2F2F2'}}></div>
+        <div style={{width: 17.73, height: 37.91, left: 31.12, top: 165.97, position: 'absolute', background: '#E6E6E6'}}></div>
+        <div style={{width: 8.11, height: 36.43, left: 31.76, top: 188.89, position: 'absolute', background: '#F2F2F2'}}></div>
+        <div style={{width: 15.48, height: 13.98, left: 66.74, top: 206.15, position: 'absolute', background: '#E6E6E6'}}></div>
+        <div style={{width: 10.56, height: 15.19, left: 62.68, top: 213.41, position: 'absolute', background: '#F2F2F2'}}></div>
+        <div style={{width: 21.02, height: 15.89, left: 37.54, top: 203.89, position: 'absolute', background: '#E6E6E6'}}></div>
+        <div style={{width: 15.29, height: 17.47, left: 31.05, top: 211.38, position: 'absolute', background: '#F2F2F2'}}></div>
+        <div style={{width: 89.69, height: 107.57, left: 137.31, top: 114.65, position: 'absolute', background: '#53ADFF'}}></div>
+        <div style={{width: 23.99, height: 25.03, left: 132.57, top: 85.89, position: 'absolute', background: '#2F2E41'}}></div>
+        <div style={{width: 6.20, height: 18.20, left: 129.73, top: 206.07, position: 'absolute', background: '#A0616A'}}></div>
+        <div style={{width: 10.37, height: 8.22, left: 123.24, top: 220.48, position: 'absolute', background: '#053B6C'}}></div>
+        <div style={{width: 4.42, height: 17.05, left: 155.26, top: 207.37, position: 'absolute', background: '#A0616A'}}></div>
+        <div style={{width: 9.66, height: 5.73, left: 150.79, top: 222.97, position: 'absolute', background: '#053B6C'}}></div>
+        <div style={{width: 30.93, height: 71.94, left: 130.54, top: 139.58, position: 'absolute', background: '#053B6C'}}></div>
+        <div style={{width: 12.01, height: 17.71, left: 138.85, top: 92.98, position: 'absolute', background: '#A0616A'}}></div>
+        <div style={{width: 18.48, height: 34.60, left: 135.40, top: 113.12, position: 'absolute', background: '#053B6C'}}></div>
+        <div style={{width: 10.33, height: 16.06, left: 149.82, top: 133.44, position: 'absolute', background: '#A0616A'}}></div>
+        <div style={{width: 16.53, height: 27.17, left: 146.37, top: 114.58, position: 'absolute', background: '#053B6C'}}></div>
+        <div style={{width: 14.67, height: 13.74, left: 137.22, top: 89.48, position: 'absolute', background: '#2F2E41'}}></div>
+        <div style={{width: 9.10, height: 16.77, left: 121.09, top: 75.60, position: 'absolute', background: '#A0616A'}}></div>
+        <div style={{width: 18.90, height: 45.53, left: 122.46, top: 82.80, position: 'absolute', background: '#053B6C'}}></div>
+        <div style={{width: 185.31, height: 0.72, left: 0, top: 228.28, position: 'absolute', background: '#CCCCCC'}}></div>
+        <div style={{width: 0.49, height: 30.28, left: 145.67, top: 38.65, position: 'absolute', background: '#CCCCCC'}}></div>
+        <div style={{width: 7.40, height: 10.92, left: 160.06, top: 63.47, position: 'absolute', background: '#CCCCCC'}}></div>
+        <div style={{width: 7.40, height: 10.92, left: 124.37, top: 63.47, position: 'absolute', background: '#CCCCCC'}}></div>
+    </div>
+    <div style={{width: 183, height: 47, left: 109, top: 721, position: 'absolute'}}>
+        <div style={{width: 183, height: 47, left: 0, top: 0, position: 'absolute', background: '#5BB1FF'}} />
+        <div style={{left: 55, top: 10, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Register</div>
+    </div>
+    <div style={{width: 335, height: 50, left: 27, top: 489, position: 'absolute'}}>
+        <div style={{width: 325, height: 50, left: 10, top: 0, position: 'absolute', background: 'white', borderRadius: 100}} />
+        <div style={{width: 228, height: 31, left: 0, top: 15, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 13, fontFamily: 'Poppins', fontWeight: '400', letterSpacing: 0.78, wordWrap: 'break-word'}}>Enter your full name</div>
+    </div>
+    <div style={{width: 348, height: 50, left: 14, top: 557, position: 'absolute'}}>
+        <div style={{width: 325, height: 50, left: 23, top: 0, position: 'absolute', background: 'white', borderRadius: 100}} />
+        <div style={{width: 228, height: 31, left: 0, top: 13, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 13, fontFamily: 'Poppins', fontWeight: '400', letterSpacing: 0.78, wordWrap: 'break-word'}}>Enter your email</div>
+    </div>
+    <div style={{width: 350, height: 50, left: 12, top: 625, position: 'absolute'}}>
+        <div style={{width: 325, height: 50, left: 25, top: 0, position: 'absolute', background: 'white', borderRadius: 100}} />
+        <div style={{width: 228, height: 31, left: 0, top: 16, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 13, fontFamily: 'Poppins', fontWeight: '400', letterSpacing: 0.78, wordWrap: 'break-word'}}>Enter Password</div>
+    </div>
+</div>
