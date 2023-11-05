@@ -1,0 +1,21 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: 'white'}}>
+    <img style={{width: 852, height: 893, left: -231, top: -49, position: 'absolute'}} src="https://via.placeholder.com/852x893" />
+    <div style={{width: 390, height: 844, left: 0, top: 0, position: 'absolute', background: 'linear-gradient(180deg, rgba(174.25, 13.07, 88.35, 0.50) 0%, rgba(196, 196, 196, 0.50) 100%)'}} />
+    <div style={{left: 168, top: 523, position: 'absolute', color: 'white', fontSize: 26, fontFamily: 'Poppins', fontWeight: '900', wordWrap: 'break-word'}}>Hello!</div>
+    <div style={{width: 312, height: 46, left: 46, top: 575, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 18, fontFamily: 'Poppins', fontWeight: '900', wordWrap: 'break-word'}}>Help us personalize the app for you by answering some quick questions</div>
+    <div style={{width: 365, height: 41, left: 13, top: 780, position: 'absolute', textAlign: 'center', color: 'white', fontSize: 12, fontFamily: 'Poppins', fontWeight: '500', wordWrap: 'break-word'}}>By tapping “continue” you agree to our terms of service and privacy policy</div>
+    <div style={{width: 2, height: 0, left: 207, top: 821, position: 'absolute', border: '1px black solid'}}></div>
+    <div style={{width: 345, height: 25, left: 23, top: 16, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 41, top: 696, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>continue</div>
+    </div>
+</div>
