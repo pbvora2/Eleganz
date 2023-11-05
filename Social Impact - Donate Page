@@ -1,0 +1,41 @@
+<div style={{width: '100%', height: '100%', position: 'relative', background: '#FFF3F6'}}>
+    <div style={{width: 396.50, height: 943.50, left: -6.50, top: -7.50, position: 'absolute', background: 'linear-gradient(180deg, #FFF8F9 0%, #FE97AB 100%)'}}></div>
+    <div style={{width: 230, left: 17, top: 270, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Help our friends:<br/></div>
+    <div style={{width: 363, left: 17, top: 348, position: 'absolute', color: 'black', fontSize: 15, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 0.90, wordWrap: 'break-word'}}>You can help Sarah by donating so that she can have the requireed sanitary products</div>
+    <div style={{width: 345, height: 25, left: 22, top: 15, position: 'absolute'}}>
+        <div style={{left: 0, top: 0, position: 'absolute', color: 'black', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>5:45</div>
+        <div style={{width: 22, height: 15.55, left: 291, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 15, height: 16, left: 266, top: 5, position: 'absolute', background: 'black'}}></div>
+        <div style={{width: 24, height: 24, left: 345, top: 1, position: 'absolute', transform: 'rotate(90deg)', transformOrigin: '0 0'}}>
+            <div style={{width: 24, height: 24, left: 0, top: 0, position: 'absolute'}}></div>
+            <div style={{width: 10, height: 7, left: 7, top: 2, position: 'absolute', background: 'black'}}></div>
+            <div style={{width: 10, height: 13, left: 7, top: 9, position: 'absolute', background: 'black'}}></div>
+        </div>
+    </div>
+    <div style={{width: 230, left: 80, top: 103, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '600', letterSpacing: 1.08, wordWrap: 'break-word'}}>Today - 11/05</div>
+    <div style={{width: 208.43, height: 269.03, left: 160, top: 329.56, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.50)'}}></div>
+    <div style={{width: 243.86, height: 162.22, left: -77, top: 475.73, position: 'absolute', transform: 'rotate(-38.08deg)', transformOrigin: '0 0', background: 'rgba(253.94, 151.32, 170.87, 0.40)'}}></div>
+    <div style={{width: 341, height: 235, left: -77, top: 84, position: 'absolute', background: 'rgba(255, 187, 199.95, 0.40)'}}></div>
+    <img style={{width: 75, height: 43, left: 5, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 320, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: -48, top: 180, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 268, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 215, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 160, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 56, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 75, height: 43, left: 110, top: 179, position: 'absolute'}} src="https://via.placeholder.com/75x43" />
+    <img style={{width: 32, height: 21, left: 237, top: 190, position: 'absolute'}} src="https://via.placeholder.com/32x21" />
+    <div style={{width: 390, height: 118, left: 0, top: 781, position: 'absolute', background: 'linear-gradient(94deg, rgba(0, 0, 0, 0.12) 0%, rgba(196, 196, 196, 0.13) 100%)', border: '1px #FE97AB solid'}} />
+    <img style={{width: 58, height: 40, left: 208, top: 793, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 110, top: 795, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 15, top: 795, position: 'absolute', mixBlendMode: 'soft-light'}} src="https://via.placeholder.com/58x40" />
+    <img style={{width: 58, height: 40, left: 320, top: 795, position: 'absolute'}} src="https://via.placeholder.com/58x40" />
+    <div style={{width: 239, height: 219, left: 78, top: 464, position: 'absolute', background: 'linear-gradient(180deg, rgba(231, 234, 246, 0.06) 0%, rgba(231, 234, 246, 0) 100%)', borderRadius: 9999, border: '12px white solid'}} />
+    <div style={{width: 175, height: 68, left: 111, top: 541, position: 'absolute'}}>
+        <div style={{width: 175, height: 68, left: 0, top: 0, position: 'absolute', background: '#B80257', borderRadius: 20}} />
+        <div style={{width: 105, height: 29, left: 37, top: 22, position: 'absolute', color: 'white', fontSize: 18, fontFamily: 'Roboto', fontWeight: '900', textTransform: 'capitalize', wordWrap: 'break-word'}}>Raised $250</div>
+    </div>
+    <div style={{paddingLeft: 118, paddingRight: 118, paddingTop: 15, paddingBottom: 15, left: 47, top: 709, position: 'absolute', background: 'white', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.25)', borderRadius: 20, justifyContent: 'flex-start', alignItems: 'flex-start', gap: 10, display: 'inline-flex'}}>
+        <div style={{color: 'black', fontSize: 18, fontFamily: 'Poppins', fontWeight: '700', textTransform: 'capitalize', wordWrap: 'break-word'}}>Donate </div>
+    </div>
+</div>
